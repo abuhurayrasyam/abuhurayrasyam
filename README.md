@@ -22,7 +22,7 @@ Currently, I’m pursuing a Diploma in Computer Science & Technology at **Tangai
 
 - 🔨 Building secure and scalable full-stack web applications  
 - 🧩 Implementing RESTful APIs and integrating third-party services
-- 🛡️ Practicing Penetration Testing using Burp Suite and Acunetix  
+- 🛡️ Performing VAPT using Burp Suite and Acunetix to enhance the security of developed applications  
 
 ---
 
