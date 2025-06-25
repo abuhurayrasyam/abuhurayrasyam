@@ -28,12 +28,15 @@ Currently, I’m pursuing a Diploma in Computer Science & Technology at **Tangai
 
 ### ⚒️ Skills & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github,vscode,linux,bash" />
-  <br />
-  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX///8AAAD+/v4ICAgYGBgZGRno6OjCwsKSkpLR0dFw..." />
-  <img src="https://img.shields.io/badge/Acunetix-red?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEUAAAD///+ZmZmjo6Nubm6qqqr5+fm/v7/Hx8ezs7PZ2dnIyMhJSUm3t7fBwcHS0tLp6emU2pLqAAABWUlEQVR4AdXSMUoDQRCG4U+2VJm8pHd/IyOxW0hZm0svfA9UpEEpJYF5+WfBnh1MZBdYQ6n2cgSAJZAgJ2M6j6zN2CMEy3J2kzH7vSyz7A4Z4UgWvWiYwFHuMAhYxBcKm9hGcRtUIRaHMA0dp3nSwCRaACyPy3O9JmpciMWBBeMVAQu3TnN4ECIKGYWyRT9S04ljn0hUb2abGmF+AC16/WTG3BTAAAAAElFTkSuQmCC" />
-</p>
+| **Skills Overview**       | **Technologies**                                                              |
+|--------------------------|--------------------------------------------------------------------------------|
+| **Languages**             | 🟨 JavaScript                                                                 |
+| **Frontend Technologies** | 🌐 HTML5, 🎨 CSS3, ⚡ TailwindCSS, 🎯 Bootstrap, ⚛️ React, 🖖 Vue.js        |
+| **Backend Development**   | 🟩 Node.js, 🚂 Express.js                                                    |
+| **Database**              | 🍃 MongoDB                                                                    |
+| **Authentication**        | 🔥 Firebase Authentication, 🔐 JWT (JSON Web Tokens)                          |
+| **Tools & Platforms**     | 🔧 Git, 🐙 GitHub, 🧪 Postman, 📝 VS Code                                    |
+| **Security & VAPT**       | 🛡️ Burp Suite, 🕷️ Acunetix                                                     |
 
 ---
 
