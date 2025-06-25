@@ -5,13 +5,13 @@
 
 <!-- Name and Designation -->
 <h1 align="center">Hi, I'm Abu Hurayra Syam 👋</h1>
-<h3 align="center">Full Stack Developer (MERN) | VAPT Specialist</h3>
+<h3 align="center">Full Stack Web Developer (MERN) | VAPT Specialist</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I’m a passionate Full Stack Developer specialized in the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
+I’m a passionate Full Stack Web Developer specialized in the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
 My core strength is building scalable and secure web applications.  
 I also have hands-on experience with **Firebase Authentication**, and I’m skilled in **Vulnerability Assessment & Penetration Testing (VAPT)** using tools like **Burp Suite** and **Acunetix**.  
 Currently, I’m pursuing a Diploma in Computer Science & Technology at **Tangail Polytechnic Institute**.
