@@ -1,51 +1,69 @@
 <!-- Banner -->
-<img src="https://readme-hero.vercel.app/api?username=abuhurayrasyam&bg=hex_000000&fg=white&type=wave&font=source-code-pro&animation=fadeIn&quote=Code%20Create%20Secure%20Repeat" alt="banner"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abuhurayrasyam/abuhurayrasyam/main/assets/banner.png" alt="Banner" />
+</p>
 
-# 👋 Hi, I'm **Abu Hurayra Syam**
-### 💻 MERN Stack Developer | 🛡️ Penetration Tester
-
----
-
-## 🧑‍💻 About Me
-
-I’m a passionate Full Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
-I also have skills in **Firebase Authentication**, **Vulnerability Assessment**, and **Penetration Testing**.  
-Currently pursuing my **Diploma in Computer Science & Technology** at **Tangail Polytechnic Institute**.
+<!-- Name and Designation -->
+<h1 align="center">Hi, I'm Abu Hurayra Syam 👋</h1>
+<h3 align="center">Full Stack Developer (MERN) | Firebase Auth | VAPT Specialist</h3>
 
 ---
 
-## 🔭 Currently Working On
-- 🔐 Securing a MERN stack-based job portal
-- 🚀 Improving my VAPT (Vulnerability Assessment and Penetration Testing) workflow
-- 🌐 Building and optimizing full-stack web applications
+### 🧑‍💻 About Me
+
+I’m a passionate Full Stack Developer specialized in the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
+My core strength is building scalable and secure web applications.  
+I also have hands-on experience with **Firebase Authentication**, and I’m skilled in **Vulnerability Assessment & Penetration Testing (VAPT)** using tools like **Burp Suite** and **Acunetix**.  
+Currently, I’m pursuing a Diploma in Computer Science & Technology at **Tangail Polytechnic Institute**.
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🚀 Currently Working On
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github,vscode,linux" />
+- 🔨 Building secure and scalable full-stack web applications  
+- 🔐 Exploring advanced Firebase Authentication strategies  
+- 🛡️ Practicing Penetration Testing using Burp Suite and Acunetix  
+- ⚡ Learning and experimenting with Next.js for performance and SEO
+
+---
+
+### ⚒️ My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github,vscode,linux,bash" />
+  <br />
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEX///8AAAD+/v4ICAgYGBgZGRno6OjCwsKSkpLR0dFw..." />
+  <img src="https://img.shields.io/badge/Acunetix-red?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEUAAAD///+ZmZmjo6Nubm6qqqr5+fm/v7/Hx8ezs7PZ2dnIyMhJSUm3t7fBwcHS0tLp6emU2pLqAAABWUlEQVR4AdXSMUoDQRCG4U+2VJm8pHd/IyOxW0hZm0svfA9UpEEpJYF5+WfBnh1MZBdYQ6n2cgSAJZAgJ2M6j6zN2CMEy3J2kzH7vSyz7A4Z4UgWvWiYwFHuMAhYxBcKm9hGcRtUIRaHMA0dp3nSwCRaACyPy3O9JmpciMWBBeMVAQu3TnN4ECIKGYWyRT9S04ljn0hUb2abGmF+AC16/WTG3BTAAAAAElFTkSuQmCC" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuhurayrasyam)
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abuhurayrasyam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://abu-hurayra-syam.web.app)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abuhurayrasyam&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhurayrasyam&layout=compact&theme=radical" height="180"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhurayrasyam&theme=radical" height="180"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abuhurayrasyam" target="_blank">
+    <img src="https://img.shields.io/badge/Connect on LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://x.com/abuhurayrasyam" target="_blank">
+    <img src="https://img.shields.io/badge/Follow on X-000000?logo=twitter&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://abu-hurayra-syam.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit Portfolio-1f1f1f?logo=google-chrome&style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> ⚡ "Turning Code into Solutions — Securely and Efficiently"
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abuhurayrasyam&show_icons=true&theme=react&hide_border=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhurayrasyam&theme=react&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhurayrasyam&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+> 🧠 "Develop Secure. Code Smart. Deliver Fast."
