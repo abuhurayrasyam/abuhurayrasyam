@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abuhurayrasyam/abuhurayrasyam/main/assets/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/abuhurayrasyam/abuhurayrasyam/main/banner.png" alt="Banner" />
 </p>
 
 <!-- Name and Designation -->
 <h1 align="center">Hi, I'm Abu Hurayra Syam 👋</h1>
-<h3 align="center">Full Stack Developer (MERN) | Firebase Auth | VAPT Specialist</h3>
+<h3 align="center">Full Stack Developer (MERN) | VAPT Specialist</h3>
 
 ---
 
@@ -21,13 +21,12 @@ Currently, I’m pursuing a Diploma in Computer Science & Technology at **Tangai
 ### 🚀 Currently Working On
 
 - 🔨 Building secure and scalable full-stack web applications  
-- 🔐 Exploring advanced Firebase Authentication strategies  
+- 🧩 Implementing RESTful APIs and integrating third-party services
 - 🛡️ Practicing Penetration Testing using Burp Suite and Acunetix  
-- ⚡ Learning and experimenting with Next.js for performance and SEO
 
 ---
 
-### ⚒️ My Tech Stack
+### ⚒️ Skills & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github,vscode,linux,bash" />
