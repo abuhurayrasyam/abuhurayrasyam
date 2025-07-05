@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m a passionate Full Stack Web Developer specialized in the **MERN Stack** (MongoDB, Express.js, React, Node.js). My core strength is building scalable, secure, and efficient web applications.
+I’m a passionate Full Stack Web Developer specialized in the **MERN Stack** (MongoDB, Express.js, React, Node.js). My core strength is building secure, scalable, and efficient web applications.
 
 I also have hands-on experience with **Firebase Authentication**, **JWT (JSON Web Token)**, and I’m skilled in **Vulnerability Assessment & Penetration Testing (VAPT)** using tools like **Burp Suite** and **Acunetix**.
 
