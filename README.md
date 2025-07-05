@@ -5,7 +5,7 @@
 
 <!-- Name and Designation -->
 <h1 align="center">Hi, I'm Abu Hurayra Syam 👋</h1>
-<h3 align="center">Full Stack Web Developer (MERN) | VAPT Specialist</h3>
+<h3 align="center">Junior MERN Stack Developer</h3>
 
 ---
 
@@ -30,13 +30,13 @@ Currently, I’m pursuing a Diploma in Computer Science & Technology at **Tangai
 
 | **Skills Overview**       | **Technologies**                                                              |
 |--------------------------|--------------------------------------------------------------------------------|
-| **Languages**             | 🟨 JavaScript                                                                 |
-| **Frontend Technologies** | 🌐 HTML5, 🎨 CSS3, ⚡ TailwindCSS, 🎯 Bootstrap, ⚛️ React, 🖖 Vue.js        |
-| **Backend Development**   | 🟩 Node.js, 🚂 Express.js                                                    |
+| **Languages**             | 🟨 JavaScript, 🐍 Python (Fundamentals)                                      |
+| **Frontend Technologies** | 🌐 HTML5, 🎨 CSS3, 🎯 Bootstrap, ⚡ TailwindCSS, ⚛️ React.js                |
+| **Backend Technologies**   | 🟩 Node.js, 🚂 Express.js                                                    |
 | **Database**              | 🍃 MongoDB                                                                    |
 | **Authentication**        | 🔥 Firebase Authentication, 🔐 JWT (JSON Web Tokens)                          |
-| **Tools & Platforms**     | 🔧 Git, 🐙 GitHub, 🧪 Postman, 📝 VS Code                                    |
-| **Security & VAPT**       | 🛡️ Burp Suite, 🕷️ Acunetix                                                     |
+| **Cybersecurity & Testing**| 🛡️ VAPT (Vulnerability Assessment & Penetration Testing)                      |
+| **Tools & Utilities**     | 🔧 Git, 🐙 GitHub, 📝 VS Code, 🧪 Postman, 🛡️ Burp Suite, 🕷️ Acunetix, 🖼️ Adobe Photoshop, 🎨 Adobe Illustrator |
 
 ---
 
